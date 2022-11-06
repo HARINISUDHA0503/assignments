@@ -1,3 +1,5 @@
+package BasicDataStructure;
+
 public class Marks {
     public static void main(String[]args){
         int a=60;

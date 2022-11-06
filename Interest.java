@@ -1,3 +1,5 @@
+package BasicDataStructure;
+
 public class Interest {
         public static void main(String []args){
             double p,r,t,s_interest,c_interest;
